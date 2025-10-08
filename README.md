@@ -11,8 +11,8 @@ The project focuses on turnout patterns, gender participation, NOTA votes, EVM r
 
 ## 📂 Project Files
 
-* `SASANK.ipynb` → Spark code and complete analysis  
-* `Final_Project_Report.pdf` → Final report with observations and insights  
+* `BDA(Spark Mini Project).ipynb` → Spark code and complete analysis  
+* `Spark Mini Project Report.pdf` → Final report with observations and insights  
 * `State-wise_Voters_Information_2024_10000.csv` → Dataset used  
 
 ---
