@@ -99,5 +99,5 @@ This is a **key indicator of election security** and trustworthiness.
 
 3. Run the notebook:  
    ```bash
-   jupyter notebook SASANK.ipynb
+   jupyter notebook BDA(Spark Mini Project).ipynb
    ```
